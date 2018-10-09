@@ -1,0 +1,6 @@
+{{#if currentUser.can_see_profile_pdf_button}}
+  <button
+    class="btn topic-group-button"
+    title={{siteSettings.profile_pdf_button_title}}
+    {{action "clickButton"}}>{{siteSettings.profile_pdf_button_label}}</button>
+{{/if}}

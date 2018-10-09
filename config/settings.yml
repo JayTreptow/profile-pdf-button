@@ -1,0 +1,16 @@
+plugins:
+  profile_pdf_button_enabled:
+    default: true
+    client: true
+  profile_pdf_button_url:
+    default: "https://base2s.com"
+    client: true
+  profile_pdf_button_title:
+    default: "Create Professional Profile PDF"
+    client: true
+  profile_pdf_button_label:
+    default: "PDF"
+    client: true
+  profile_pdf_button_allowed_group:
+    default: "trust_level_4"
+    client: true

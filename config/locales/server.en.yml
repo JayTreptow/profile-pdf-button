@@ -1,0 +1,7 @@
+en:
+  site_settings:
+    profile_pdf_button_enabled: "Enable profile PDF button plugin"
+    profile_pdf_button_url: "Button URL (&lt;USERNAME&gt; &lt;USER_ID&gt; and &lt;TOPIC_ID&gt; will be replaced)"
+    profile_pdf_button_title: "Button title"
+    profile_pdf_button_label: "Button label"
+    profile_pdf_button_allowed_group: "Button will only be visible to members of specified group"
